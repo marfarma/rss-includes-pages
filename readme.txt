@@ -11,8 +11,6 @@ Modifies RSS feeds so that they include pages and not just posts.
 
 Modifies RSS feeds so that they include pages and not just posts. Turning off the plug-in restores RSS feeds to their default state.
 
-This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
-
 == Installation ==
 
 1. Upload the rss-inc-feeds folder to the `/wp-content/plugins/` directory
