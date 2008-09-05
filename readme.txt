@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== RSS Includes Pages ===
 Contributors: marios-alexandrou
 Tags: rss, feed, feeds, pages
 Requires at least: 2.5
