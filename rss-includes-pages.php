@@ -16,6 +16,8 @@ function ma_posts_where($var){
 		global $table_prefix; // get the table prefix
 		$find = $table_prefix . 'posts.post_type = \'post\''; // find where the query filters by post_type
 		$replace = '(' . $find . ' OR ' . $table_prefix . 'posts.post_type = \'page\')'; // add OR post_type 'page' to the query
+//		$find = '$wpdb->posts.post_type = \'post\''; // find where the query filters by post_type
+//		$replace = '(' . $find . ' OR $wpdb->posts.post_type = \'page\')'; // add OR post_type 'page' to the query
 		$var = str_replace($find, $replace, $var); // change the query
 	}
 	return $var; // return the variable
