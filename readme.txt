@@ -2,7 +2,7 @@
 Contributors: marios-alexandrou
 Tags: rss, feed, feeds, pages
 Requires at least: 2.5
-Tested up to: 2.8.4
+Tested up to: 2.9.1
 Stable tag: 1.1
 
 Modifies RSS feeds so that they include pages and not just posts.
