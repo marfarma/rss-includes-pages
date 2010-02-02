@@ -23,3 +23,11 @@ Including pages in your feed is particularly useful if you're using WordPress as
 = Will this plugin work with other RSS feed related plugins? =
 
 Yes. The modifications to the feed are done at a low level and other plugins should remain compatible.
+
+= I just activated the plugin, why don't I see pages in my feed? =
+
+If you're using Feedburner you'll have to wait until your updated feed is picked up by Feedburner. This isn't immediate so give it a few hours.
+
+= I just posted a page, why don't I see it in my feed? =
+
+If you're using Feedburner you'll have to wait until your updated feed is picked up by Feedburner. This isn't immediate so give it a few hours.
