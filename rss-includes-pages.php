@@ -2,7 +2,7 @@
 /*
 Plugin Name: RSS Includes Pages
 Version: 1.1
-Plugin URI: http://www.mariosalexandrou.com/rss-includes-pages.asp
+Plugin URI: http://www.mariosalexandrou.com/blog/include-pages-in-wordpress-rss-feeds/
 Description: Include pages (not just posts) in RSS feeds. Particularly useful to those that use WordPress as a CMS. 
 Author: Marios Alexandrou
 Author URI: http://www.mariosalexandrou.com/
