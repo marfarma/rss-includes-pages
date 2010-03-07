@@ -31,3 +31,7 @@ If you're using Feedburner you'll have to wait until your updated feed is picked
 = I just posted a page, why don't I see it in my feed? =
 
 If you're using Feedburner you'll have to wait until your updated feed is picked up by Feedburner. This isn't immediate so give it a few hours.
+
+= Where are the settings? =
+
+There are no settings. Once the plugin is activated, pages with a recent create date will be included in the WordPress RSS feed.
