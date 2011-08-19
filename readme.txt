@@ -2,8 +2,8 @@
 Contributors: marios-alexandrou
 Tags: rss, feed, feeds, pages
 Requires at least: 2.5
-Tested up to: 2.9.2
-Stable tag: 1.2
+Tested up to: 3.2.1
+Stable tag: 1.3
 
 Modifies RSS feeds so that they include pages and not just posts.
 
@@ -15,7 +15,7 @@ Including pages in your feed is particularly useful if you're using WordPress as
 
 == Installation ==
 
-1. Upload the rss-includes-feeds folder to the `/wp-content/plugins/` directory
+1. Upload the rss-includes-feeds folder to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
@@ -58,3 +58,6 @@ http://wordpress.org/extend/plugins/real-time-find-and-replace/
 
 = 1.2 =
 * FAQ updates and confirming plugin works with WordPress 2.9.2.
+
+= 1.3 =
+* Confirm that plugin works fine with WordPress 3.2.1.
