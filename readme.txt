@@ -1,9 +1,10 @@
 === RSS Includes Pages ===
 Contributors: Marios Alexandrou
+Donate link: http://infolific.com/technology/software-worth-using/include-pages-in-wordpress-rss-feeds/
 Tags: rss, feed, feeds, pages
 Requires at least: 2.5
 Tested up to: 3.4
-Stable tag: 1.4.1
+Stable tag: 1.4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -71,3 +72,7 @@ http://wordpress.org/extend/plugins/real-time-find-and-replace/
 = 1.4.1 =
 
 * Corrected contributor list.
+
+= 1.4.2 =
+
+* More fixes to readme file.
