@@ -1,9 +1,11 @@
 === RSS Includes Pages ===
-Contributors: marios-alexandrou
+Contributors: marios alexandrou, marios-alexandrou
 Tags: rss, feed, feeds, pages
 Requires at least: 2.5
-Tested up to: 3.2.1
-Stable tag: 1.3
+Tested up to: 3.4
+Stable tag: 1.4
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Modifies RSS feeds so that they include pages and not just posts.
 
@@ -26,11 +28,11 @@ Yes. The modifications to the feed are done at a low level and other plugins sho
 
 = I just activated the plugin, why don't I see pages in my feed? =
 
-If you're using Feedburner you'll have to wait until your updated feed is picked up by Feedburner. This isn't immediate so give it a few hours.
+If you're using Feedburner you'll have to wait until your updated feed is picked up by Feedburner. This isn't immediate so give it a few hours. Also, WordPress caches feeds and doesn't rebuild it on the fly.
 
 = I just posted a page, why don't I see it in my feed? =
 
-If you're using Feedburner you'll have to wait until your updated feed is picked up by Feedburner. This isn't immediate so give it a few hours.
+If you're using Feedburner you'll have to wait until your updated feed is picked up by Feedburner. This isn't immediate so give it a few hours. Also, WordPress caches feeds and doesn't rebuild it on the fly.
 
 = Where are the settings? =
 
@@ -60,4 +62,8 @@ http://wordpress.org/extend/plugins/real-time-find-and-replace/
 * FAQ updates and confirming plugin works with WordPress 2.9.2.
 
 = 1.3 =
-* Confirm that plugin works fine with WordPress 3.2.1.
+* Confirmed that plugin works fine with WordPress 3.2.1.
+
+= 1.4 =
+
+* Tweaked SQL that looks for updated posts / pages.
