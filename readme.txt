@@ -3,7 +3,7 @@ Contributors: Marios Alexandrou
 Tags: rss, feed, feeds, pages
 Requires at least: 2.5
 Tested up to: 3.4
-Stable tag: 1.4
+Stable tag: 1.4.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -67,3 +67,7 @@ http://wordpress.org/extend/plugins/real-time-find-and-replace/
 = 1.4 =
 
 * Tweaked SQL that looks for updated posts / pages.
+
+= 1.4.1 =
+
+* Corrected contributor list.
