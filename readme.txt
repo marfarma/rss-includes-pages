@@ -1,5 +1,5 @@
 === RSS Includes Pages ===
-Contributors: marios alexandrou, marios-alexandrou
+Contributors: Marios Alexandrou
 Tags: rss, feed, feeds, pages
 Requires at least: 2.5
 Tested up to: 3.4
